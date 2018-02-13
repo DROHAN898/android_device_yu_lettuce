@@ -1,0 +1,13 @@
+#============= init ==============
+allow init ion_device:chr_file write;
+allow init netd:unix_stream_socket connectto;
+allow init netd_socket:sock_file write;
+allow init qmuxd_socket:sock_file write;
+allow init self:capability2 block_suspend;
+allow init self:netlink_route_socket { setopt nlmsg_write read bind create nlmsg_read write getattr };
+allow init self:netlink_socket { write bind create };
+allow init self:netlink_xfrm_socket { bind create };
+allow init self:rawip_socket { getopt create setopt };
+allow init self:socket { read write create };
+allow init self:udp_socket ioctl;
+allow init video_device:chr_file { write ioctl };
