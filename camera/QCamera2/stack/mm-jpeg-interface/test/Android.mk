@@ -39,6 +39,7 @@ LOCAL_VENDOR_MODULE := true
 LOCAL_32_BIT_ONLY := true
 LOCAL_PRELINK_MODULE   := false
 LOCAL_SHARED_LIBRARIES := libcutils libdl libmmjpeg_interface liblog
+LOCAL_VENDOR_MODULE := true
 
 include $(BUILD_EXECUTABLE)
 
