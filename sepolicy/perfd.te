@@ -3,3 +3,5 @@ allow perfd self:capability dac_override;
 allow perfd sysfs_kgsl:file write;
 allow perfd sysfs_thermal:file write;
 allow perfd self:capability fsetid;
+allow perfd system_server:dir search;
+allow perfd system_server:file { read open };
