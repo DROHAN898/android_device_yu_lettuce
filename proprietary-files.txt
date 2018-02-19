@@ -216,7 +216,7 @@ vendor/lib64/libdisp-aba.so
 vendor/lib64/libmm-abl.so
 vendor/lib64/libmm-abl-oem.so
 
-# Qualcomm framework - from crackling
+# Qualcomm framework - from HS8939QC
 bin/irsc_util|bca0b721ff5d3edeb9f7482a24d222c6cbb23d69
 vendor/lib64/libdiag.so|ad87632e7d9ffb546391c0a7f25e0c94cbd5627e
 vendor/lib64/libdsi_netctrl.so|ba48affd3456a0baccd8ba692c9869a23a1d908e
@@ -251,7 +251,7 @@ vendor/lib/libqmiservices.so|919d2adde5e7e934cabbfbc4adbd4e5b3204f1f5
 vendor/lib/libqmi.so|9950b985c6da18e476a71ff2ed3fcc255d2dbc66
 vendor/lib/libsmemlog.so|60d70ae6b716732dbb57a37e8dec607328d20a0d
 
-# Radio - from crackling
+# Radio - from HS8939QC
 -app/shutdownlistener/shutdownlistener.apk|44e4b8729aa110251f13e3111c80f056fb796ab8
 bin/netmgrd|c133dea63e6a17482e969114c99cdb001a8e01a1
 bin/qmuxd|a51cc1d43f9027db7b46d278b95293b9f42edb35
