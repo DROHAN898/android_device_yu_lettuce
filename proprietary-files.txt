@@ -263,7 +263,7 @@ etc/permissions/qcrilhook.xml|9fc58a3d54d20ac1d53bab14608815121aefbce5
 -framework/qcrilhook.jar|d86769b931262f8c987692a341a11c66adebfab4
 vendor/lib64/librilqmiservices.so|0aa818a7a1b6eed8914c15b73870bc9e8b2a1c65
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|925774c5ef6a7a90f72cedf42a27ca467f2f68e2
-vendor/lib64/libcneapiclient.so|042ad03479f951ff8246db48eaa7fa156bada4e8
+vendor/lib64/libcneapiclient.so|33e7465996749a8823ac03e34a94e3112c88dda4
 vendor/lib64/libconfigdb.so|847ac1cc41441092bdcb95b2ed9ce4774ce2570f
 vendor/lib64/liblqe.so|c767b055de23e8bab27379d64fb133043a78e9c1
 vendor/lib64/libmdmdetect.so|5d5de45ec3ee00d3d1f13091b8b405fe90f47943
@@ -277,8 +277,6 @@ vendor/lib64/libsettings.so|5e6db580e8cda05e5119ad2cbb03c40d05b25106
 vendor/lib64/libsystem_health_mon.so|5cd07714bf526038e74d9ad242b173271ee915da
 vendor/lib64/libxml.so|c5cef1cb4320caf855090db57f744757b88d720a
 vendor/lib/libmdmdetect.so|daea0a277f8f00fef29370c850310a8d2048a25b
-vendor/lib/libprotobuf-cpp-biss.so|e8d582d4f90fa56fcde929924a3312634c97147f
-vendor/lib/libprotobuf-cpp-shit.so|9f171c8a58ecb9a53091416d7c470f5dbc040046
 
 # Sensors
 vendor/lib64/libcalmodule_akm.so
