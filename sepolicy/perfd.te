@@ -1,0 +1,3 @@
+#============= perfd ==============
+allow perfd sysfs_kgsl:file write;
+allow perfd sysfs_thermal:file write;

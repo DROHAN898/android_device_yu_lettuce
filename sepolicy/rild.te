@@ -1,0 +1,4 @@
+#============= rild ==============
+allow rild media_rw_data_file:file read;
+allow rild media_rw_data_file:file open;
+allow rild media_rw_data_file:file getattr;

@@ -1,0 +1,3 @@
+#============= thermal-engine ==============
+allow thermal-engine sysfs_spmi_dev:dir { read search };
+allow thermal-engine sysfs_spmi_dev:dir open;
